@@ -3,7 +3,7 @@
 
 <p align="justify"><h1>Carteiras de Ações: O Impacto da Selic a 15,00%</h1></p>
 
-<p align="justify">Este relatório detalha a análise de desempenho de portfólios sob um cenário de alta taxa de juros (<b>Selic a 15,00% a.a.</b>), utilizando técnicas avançadas de estatística para mensuração de risco. A principal inovação desta análise é a substituição do desvio padrão convencional pela escala da <b>Distribuição t de Student</b>.</p>
+<p align="justify">Este relatório detalha a análise de desempenho de portfólios escolhidos de 20 ações sob um cenário de alta taxa de juros (<b>Selic a 15,00% a.a.</b>), utilizando técnicas avançadas de estatística para mensuração de risco. A principal inovação desta análise é a substituição do desvio padrão convencional pela escala da <b>Distribuição t de Student</b>.</p>
 
 <p align="justify"><h3>1. Metodologia: Volatilidade Robusta via Distribuição t</h3></p>
 
